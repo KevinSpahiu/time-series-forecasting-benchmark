@@ -23,3 +23,23 @@ The study is conducted across multiple time series from three domains:
 
 The goal of this project is not to optimize a single model on a single dataset, but to build a consistent and reproducible benchmark that compares forecasting performance across datasets, domains, and forecast horizons.
 
+## Reproducing the Results
+
+To reproduce the results of this thesis project, follow the pipeline below:
+
+1. **Download the raw datasets**  
+   Download the original datasets from their respective public sources.
+
+2. **Run the data cleaning scripts**  
+   Execute the cleaning pipeline to standardize all retained datasets into a common format with:
+   - `ds` for the timestamp column
+   - `y` for the target column
+
+   The cleaned files should be saved in the domain-specific folders under:
+
+   ```bash
+   datasets_cleaned/
+       stock/
+       sales/
+       energy/
+
