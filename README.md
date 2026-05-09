@@ -1,5 +1,5 @@
 # Benchmarking Zero-Shot Foundation Models for Time Series Forecasting
-```markdown
+
 ## Thesis Context
 
 This repository was developed as part of my master's thesis in time series forecasting. It implements a standardized benchmarking framework for comparing zero-shot TimeGPT with SARIMA, XGBoost, and LSTM across financial, retail, and energy datasets. The benchmark is designed around a shared rolling-origin evaluation procedure to ensure fairness, consistency, and reproducibility across models.
