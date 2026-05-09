@@ -43,3 +43,14 @@ To reproduce the results of this thesis project, follow the pipeline below:
        sales/
        energy/
 
+3. Excecute Benchmark_design_v3.py and than the other scripts
+
+4. Final outputs are stored in:
+
+outputs_v3/
+    benchmark/
+    sarima_v3/
+    xgb_v3/
+    lstm_v3/
+    timegpt_v3/
+    dm_tests_v3/
