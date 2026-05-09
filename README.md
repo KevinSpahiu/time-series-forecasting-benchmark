@@ -1,2 +1,2 @@
-# time-series-forecasting-benchmark
-A standardized rolling-origin benchmarking framework for comparing zero-shot TimeGPT with SARIMA, XGBoost, and LSTM across financial, retail, and energy time series.
+# Benchmarking Zero-Shot Foundation Models for Time Series Forecasting
+## A comparative forecasting framework evaluating TimeGPT against classical statistical, machine learning, and deep learning models under a fair and reproducible rolling-origin design.
