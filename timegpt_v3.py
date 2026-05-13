@@ -67,7 +67,7 @@ def _nixtla_import():
         return None
 
 def get_api_key() -> str:
-    return (os.environ.get("nixak-473d35ab9f9470bf60e50df375316907f4aa2df0a80ef9c30e3efda3996085872d880cce1bb645c5") or "nixak-473d35ab9f9470bf60e50df375316907f4aa2df0a80ef9c30e3efda3996085872d880cce1bb645c5").strip()
+    return (os.environ.get("xxxxxxxxxxxx") or "xxxxxxxx").strip()
 
 # ============================================================
 # HELPERS
